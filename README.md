@@ -3,6 +3,6 @@ Tras pensar en miles de empresas que pagan por un TPV, me he decido por realizar
 
 
 <B> Usuario Administrador </B>
-Usuario: admin
-Contraseña: admin
+<br>Usuario: admin
+<br>Contraseña: admin
 Se recomienda cambiar la contraseña de esta cuenta.
